@@ -78,7 +78,7 @@ Columns related to:
 
 ![HR Analytics Dashboard](https://github.com/PavanRasipogula/HR_Analytics_Dashboard/blob/main/Final%20Output.png)
 
-> *(Replace with your dashboard image inside repository: `/main/HR_Analytics_Dashboard.png`)*
+
 
 ---
 
@@ -94,5 +94,6 @@ Columns related to:
 
 `Power BI` `HR Analytics` `Dashboard` `Data Visualization`
 `Employee Insights` `Business Intelligence` `Data Analysis` `DAX`
+
 
 
